@@ -1,0 +1,17 @@
+# API keys
+.env
+
+# Virtual environment
+.venv/
+
+# Input data and trial outputs — reproducible by running the scripts
+data/
+results/
+
+# Notes, screenshots, and chat summaries (local reference only)
+notes/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
