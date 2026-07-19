@@ -4,8 +4,7 @@
 # Virtual environment
 .venv/
 
-# Input data and trial outputs — reproducible by running the scripts
-data/
+# Input trial outputs — reproducible by running the scripts
 results/
 
 # Notes, screenshots, and chat summaries (local reference only)
